@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513131170689",
+    "project_id": "hjstocker-14007",
+    "storage_bucket": "hjstocker-14007.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513131170689:android:9ddce66f71dfb872487680",
+        "android_client_info": {
+          "package_name": "com.example.hjstocker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv3PSzbc9v7GYKaUga8aLWjrsOhfull84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
