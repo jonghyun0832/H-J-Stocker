@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             HJStockerTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Hello",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
